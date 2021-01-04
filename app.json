@@ -16,7 +16,8 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+      "**/*",
+      "assets/model_tfjs/*"
     ],
     "ios": {
       "supportsTablet": true
